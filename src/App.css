@@ -1,0 +1,25 @@
+.page-container {
+  display: flex;
+  flex-direction: column;
+  width: 150px;
+}
+.list-container {
+  margin: 0px;
+  padding: 0px;
+  border: 1px solid black;
+  border-top: none;
+}
+
+.input-field {
+  padding: 5px 10px;
+  border-radius: 5px;
+  border: 2px solid black;
+  border-bottom-left-radius: 0px;
+  border-bottom-right-radius: 0px;
+}
+
+.list-item {
+  list-style: none;
+  padding: 5px 10px;
+
+}
